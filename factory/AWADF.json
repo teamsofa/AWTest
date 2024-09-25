@@ -1,5 +1,10 @@
 {
 	"name": "AWADF",
+	"properties": {
+		"globalConfigurations": {
+			"PipelineBillingEnabled": "true"
+		}
+	},
 	"location": "uksouth",
 	"identity": {
 		"type": "SystemAssigned",
