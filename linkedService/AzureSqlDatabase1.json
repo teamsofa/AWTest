@@ -6,7 +6,7 @@
 		"typeProperties": {
 			"server": "myserver811472.database.windows.net",
 			"database": "AWTest",
-			"encrypt": "mandatory",
+			"encrypt": "optional",
 			"trustServerCertificate": true,
 			"authenticationType": "SystemAssignedManagedIdentity",
 			"alwaysEncryptedSettings": {
