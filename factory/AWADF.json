@@ -1,0 +1,9 @@
+{
+	"name": "AWADF",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2e626d04-d9c6-46af-a810-f577331a90ce",
+		"tenantId": "f292fb86-f176-4359-9fbb-30be0cc5081e"
+	}
+}
